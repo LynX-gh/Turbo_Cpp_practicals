@@ -1,6 +1,5 @@
 # Cpp_practicals
-CBSE, Class 11 and 12 Practical Programs
-Ranging from Strings, Arrays, Functions all the way to Sorting Algorithms, Objects, Inheritance
-
-**All Programs created in Turbo C++**
-**Requires iostream header**
+### **CBSE, Class 11 and 12 Practical Programs**
+#### _**Ranging from Strings, Arrays, Functions all the way to Sorting Algorithms, Objects, Inheritance**_
+- All Programs created in Turbo C++<br/>
+- Requires iostream header
